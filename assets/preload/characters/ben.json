@@ -1,58 +1,24 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				-57,
-				-157
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "ben left",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				-43,
-				-240
+				-250
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "ben down",
-			"indices": []
+			"indices": [],
+			"name": "ben down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-9,
-				-203
+				-78,
+				-256
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "ben up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-23,
-				-197
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "ben right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-75,
-				-238
-			],
 			"anim": "danceRight",
-			"fps": 24,
-			"name": "ben idle",
 			"indices": [
 				0,
 				1,
@@ -62,39 +28,84 @@
 				5,
 				6,
 				7,
-				8
-			]
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-75,
-				-239
-			],
-			"anim": "danceLeft",
-			"fps": 24,
-			"name": "ben idle",
-			"indices": [
+				8,
 				9,
 				10,
 				11,
 				12,
 				13,
-				14,
-				15,
-				16
-			]
+				14
+			],
+			"name": "ben idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				120,
-				401
+				-78,
+				-256
 			],
-			"anim": "fall",
+			"loop": false,
 			"fps": 24,
-			"name": "ben fall",
-			"indices": []
+			"anim": "danceLeft",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			],
+			"name": "ben idle"
+		},
+		{
+			"offsets": [
+				112,
+				385
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fall",
+			"indices": [],
+			"name": "ben fall"
+		},
+		{
+			"offsets": [
+				-133,
+				-227
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ben right"
+		},
+		{
+			"offsets": [
+				-7,
+				-167
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ben left"
+		},
+		{
+			"offsets": [
+				-75,
+				-183
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ben up"
 		}
 	],
 	"no_antialiasing": false,
