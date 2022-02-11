@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				193,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				97,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				106,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-63,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				409,
+				-13
+			],
+			"anim": "swing",
+			"fps": 24,
+			"name": "Attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MadNick",
+	"position": [
+		-30,
+		170
+	],
+	"healthicon": "nick",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		136,
+		0
+	],
+	"camera_position": [
+		-310,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

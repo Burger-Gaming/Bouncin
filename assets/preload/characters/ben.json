@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-157
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ben left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ben down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-203
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ben up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-197
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ben right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-238
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "ben idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-239
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "ben idle",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				401
+			],
+			"anim": "fall",
+			"fps": 24,
+			"name": "ben fall",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ben",
+	"position": [
+		-30,
+		40
+	],
+	"healthicon": "ben",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		139
+	],
+	"camera_position": [
+		0,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

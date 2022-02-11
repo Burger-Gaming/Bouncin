@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgSpriteSheet.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eli0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="nick 10000" x="1930" y="0" width="1920" height="1080"/>
+</TextureAtlas>

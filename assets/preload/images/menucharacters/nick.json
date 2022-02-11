@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Right",
+	"idle_anim": "Idle",
+	"position": [
+		153,
+		112
+	],
+	"scale": 0.6,
+	"image": "Menu_Nick"
+}

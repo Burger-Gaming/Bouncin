@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spoar (1).png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JoshDown0000" x="0" y="0" width="887" height="615" frameX="-9" frameY="-10" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshDown0001" x="0" y="0" width="887" height="615" frameX="-9" frameY="-10" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshDown0002" x="887" y="0" width="894" height="625" frameX="-2" frameY="0" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshDown0003" x="887" y="0" width="894" height="625" frameX="-2" frameY="0" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshDown0004" x="1781" y="0" width="896" height="623" frameX="0" frameY="-2" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshDown0005" x="1781" y="0" width="896" height="623" frameX="0" frameY="-2" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshDown0006" x="2677" y="0" width="896" height="623" frameX="0" frameY="-2" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshDown0007" x="2677" y="0" width="896" height="623" frameX="0" frameY="-2" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshDown0008" x="3573" y="0" width="896" height="623" frameX="0" frameY="-2" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshDown0009" x="3573" y="0" width="896" height="623" frameX="0" frameY="-2" frameWidth="896" frameHeight="625"/>
+	<SubTexture name="JoshIdle0000" x="4469" y="0" width="482" height="870" frameX="-2" frameY="-26" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0001" x="4469" y="0" width="482" height="870" frameX="-2" frameY="-26" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0002" x="4469" y="0" width="482" height="870" frameX="-2" frameY="-26" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0003" x="4951" y="0" width="482" height="866" frameX="0" frameY="-30" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0004" x="4951" y="0" width="482" height="866" frameX="0" frameY="-30" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0005" x="4951" y="0" width="482" height="866" frameX="0" frameY="-30" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0006" x="5433" y="0" width="479" height="893" frameX="-9" frameY="-3" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0007" x="5433" y="0" width="479" height="893" frameX="-9" frameY="-3" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0008" x="5912" y="0" width="479" height="896" frameX="-13" frameY="0" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0009" x="5912" y="0" width="479" height="896" frameX="-13" frameY="0" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0010" x="6391" y="0" width="478" height="892" frameX="-19" frameY="-4" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0011" x="6391" y="0" width="478" height="892" frameX="-19" frameY="-4" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0012" x="6869" y="0" width="476" height="871" frameX="-29" frameY="-25" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0013" x="6869" y="0" width="476" height="871" frameX="-29" frameY="-25" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0014" x="6869" y="0" width="476" height="871" frameX="-29" frameY="-25" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0015" x="7345" y="0" width="480" height="867" frameX="-32" frameY="-29" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0016" x="7345" y="0" width="480" height="867" frameX="-32" frameY="-29" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0017" x="7345" y="0" width="480" height="867" frameX="-32" frameY="-29" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0018" x="6391" y="0" width="478" height="892" frameX="-19" frameY="-4" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0019" x="6391" y="0" width="478" height="892" frameX="-19" frameY="-4" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0020" x="5912" y="0" width="479" height="896" frameX="-13" frameY="0" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0021" x="5912" y="0" width="479" height="896" frameX="-13" frameY="0" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0022" x="5433" y="0" width="479" height="893" frameX="-9" frameY="-3" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshIdle0023" x="5433" y="0" width="479" height="893" frameX="-9" frameY="-3" frameWidth="512" frameHeight="896"/>
+	<SubTexture name="JoshLeft0000" x="0" y="896" width="678" height="873"/>
+	<SubTexture name="JoshLeft0001" x="0" y="896" width="678" height="873"/>
+	<SubTexture name="JoshLeft0002" x="678" y="896" width="662" height="873" frameX="-8" frameY="0" frameWidth="678" frameHeight="873"/>
+	<SubTexture name="JoshLeft0003" x="678" y="896" width="662" height="873" frameX="-8" frameY="0" frameWidth="678" frameHeight="873"/>
+	<SubTexture name="JoshLeft0004" x="1340" y="896" width="666" height="873" frameX="-6" frameY="0" frameWidth="678" frameHeight="873"/>
+	<SubTexture name="JoshLeft0005" x="1340" y="896" width="666" height="873" frameX="-6" frameY="0" frameWidth="678" frameHeight="873"/>
+	<SubTexture name="JoshLeft0006" x="2006" y="896" width="666" height="873" frameX="-6" frameY="0" frameWidth="678" frameHeight="873"/>
+	<SubTexture name="JoshLeft0007" x="2006" y="896" width="666" height="873" frameX="-6" frameY="0" frameWidth="678" frameHeight="873"/>
+	<SubTexture name="JoshLeft0008" x="2672" y="896" width="666" height="873" frameX="-6" frameY="0" frameWidth="678" frameHeight="873"/>
+	<SubTexture name="JoshLeft0009" x="2672" y="896" width="666" height="873" frameX="-6" frameY="0" frameWidth="678" frameHeight="873"/>
+	<SubTexture name="JoshRight0000" x="3338" y="896" width="545" height="880" frameX="-10" frameY="0" frameWidth="565" frameHeight="880"/>
+	<SubTexture name="JoshRight0001" x="3338" y="896" width="545" height="880" frameX="-10" frameY="0" frameWidth="565" frameHeight="880"/>
+	<SubTexture name="JoshRight0002" x="3883" y="896" width="561" height="880" frameX="-2" frameY="0" frameWidth="565" frameHeight="880"/>
+	<SubTexture name="JoshRight0003" x="3883" y="896" width="561" height="880" frameX="-2" frameY="0" frameWidth="565" frameHeight="880"/>
+	<SubTexture name="JoshRight0004" x="4444" y="896" width="565" height="880"/>
+	<SubTexture name="JoshRight0005" x="4444" y="896" width="565" height="880"/>
+	<SubTexture name="JoshRight0006" x="5009" y="896" width="565" height="880"/>
+	<SubTexture name="JoshRight0007" x="5009" y="896" width="565" height="880"/>
+	<SubTexture name="JoshRight0008" x="5574" y="896" width="565" height="880"/>
+	<SubTexture name="JoshRight0009" x="5574" y="896" width="565" height="880"/>
+	<SubTexture name="JoshUp0000" x="6139" y="896" width="673" height="936"/>
+	<SubTexture name="JoshUp0001" x="6139" y="896" width="673" height="936"/>
+	<SubTexture name="JoshUp0002" x="6812" y="896" width="673" height="926" frameX="0" frameY="-10" frameWidth="673" frameHeight="936"/>
+	<SubTexture name="JoshUp0003" x="6812" y="896" width="673" height="926" frameX="0" frameY="-10" frameWidth="673" frameHeight="936"/>
+	<SubTexture name="JoshUp0004" x="7485" y="896" width="673" height="928" frameX="0" frameY="-8" frameWidth="673" frameHeight="936"/>
+	<SubTexture name="JoshUp0005" x="7485" y="896" width="673" height="928" frameX="0" frameY="-8" frameWidth="673" frameHeight="936"/>
+	<SubTexture name="JoshUp0006" x="0" y="1832" width="673" height="928" frameX="0" frameY="-8" frameWidth="673" frameHeight="936"/>
+	<SubTexture name="JoshUp0007" x="0" y="1832" width="673" height="928" frameX="0" frameY="-8" frameWidth="673" frameHeight="936"/>
+	<SubTexture name="JoshUp0008" x="673" y="1832" width="673" height="928" frameX="0" frameY="-8" frameWidth="673" frameHeight="936"/>
+	<SubTexture name="JoshUp0009" x="673" y="1832" width="673" height="928" frameX="0" frameY="-8" frameWidth="673" frameHeight="936"/>
+</TextureAtlas>

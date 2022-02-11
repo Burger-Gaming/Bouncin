@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "JoshIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "JoshLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				245,
+				-228
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "JoshDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JoshUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JoshRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Josh",
+	"position": [
+		50,
+		-50
+	],
+	"healthicon": "josh",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		85,
+		255
+	],
+	"camera_position": [
+		60,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

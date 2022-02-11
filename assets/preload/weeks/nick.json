@@ -1,0 +1,57 @@
+{
+	"storyName": "Cooking with aNICKmations",
+	"hideFreeplay": false,
+	"weekBackground": "nick",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Bouncy Boi",
+			"nick",
+			[
+				255,
+				102,
+				0
+			]
+		],
+		[
+			"Cookin",
+			"nick",
+			[
+				255,
+				102,
+				0
+			]
+		],
+		[
+			"T.B.T.O",
+			"nick",
+			[
+				255,
+				102,
+				0
+			]
+		],
+		[
+			"T.B.T.W",
+			"nick",
+			[
+				255,
+				102,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"nick",
+		"bf",
+		"gf"
+	],
+	"weekName": "Cooking With aNICKmations"
+}

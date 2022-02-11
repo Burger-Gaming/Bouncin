@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="computer.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Computer0000" x="0" y="0" width="662" height="448" frameX="-14" frameY="0" frameWidth="691" frameHeight="466"/>
+	<SubTexture name="Computer0001" x="662" y="0" width="691" height="466"/>
+	<SubTexture name="Computer0002" x="662" y="0" width="691" height="466"/>
+	<SubTexture name="Computer0003" x="662" y="0" width="691" height="466"/>
+	<SubTexture name="Computer0004" x="1353" y="0" width="653" height="443" frameX="-18" frameY="0" frameWidth="691" frameHeight="466"/>
+	<SubTexture name="Computer0005" x="1353" y="0" width="653" height="443" frameX="-18" frameY="0" frameWidth="691" frameHeight="466"/>
+	<SubTexture name="Computer0006" x="0" y="466" width="662" height="448" frameX="-14" frameY="0" frameWidth="691" frameHeight="466"/>
+	<SubTexture name="Computer0007" x="0" y="466" width="662" height="448" frameX="-14" frameY="0" frameWidth="691" frameHeight="466"/>
+</TextureAtlas>
